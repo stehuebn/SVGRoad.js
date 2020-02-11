@@ -1,4 +1,4 @@
-# SVGRoad Ver 2.0
+# SVGRoad Ver 2.0 Fork for exploratory hacking
 
 Javascript library to manipulate SVG Path
 
